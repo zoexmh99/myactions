@@ -1,17 +1,12 @@
 name: Auto Api Super
 
-on: 
-  release:
-    types: [published]
-  push:
-    tags:
-    - 'v*'
-  #  branches: 
-  #    - master
-  schedule:
-    - cron: "15 */2 * * *"
-  watch:
-    types: [started]
+on:
+    workflow_dispatch:
+    schedule:
+        - cron: "*/4 */2 * * *"
+#电信经常签到不成功所以让他每八小时执行一下,一天三次
+    watch:
+        types: [started]
    
 jobs:
   build:
@@ -29,7 +24,7 @@ jobs:
         pip install requests
     - name: Read config from secrets  #读取机密
       env: 
-        ID_LIST: ${{ secrets.ID_LIST }} # secrets_id 提供
+        GHCookie: ${{ secrets.GHCookie }} # secrets_id 提供
         KEY_LIST: ${{ secrets.KEY_LIST }} # secrets_key 提供
         ID_LIST2: ${{ secrets.ID_LIST2 }} # secrets_id 提供
         KEY_LIST2: ${{ secrets.KEY_LIST2 }} # secrets_key 提供
