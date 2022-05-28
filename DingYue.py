@@ -123,7 +123,7 @@ if __name__ == '__main__':
         elif "免费" in i:
             continue
         txt = txt + i+"\n"
-    with open("server1.txt","w+",encoding="utf-8") as f:
+    with open("Node.txt","w+",encoding="utf-8") as f:
         f.write(txt)
 
 
