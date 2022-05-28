@@ -5,9 +5,10 @@ import requests
 import re
 import os,sys
 
-path=sys.path[0]+r'/server1.txt'
+
 txt="hah"
-fn=open(path,"w",encoding="utf-8")
+fn=open("Node.txt","w",encoding="utf-8")
+path=sys.path[0]+r'/Node.txt'
 print(path)
 fn.write("zhongguo")
 
