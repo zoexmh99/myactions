@@ -3,9 +3,9 @@ import random
 import time
 import requests
 import re
+import os
 
-
-cookie = process.env.GHCOOKIE
+cookie = os.environ["GHCOOKIE"]
 filter_list = ["#",";","","/"]
 
 headers = {
