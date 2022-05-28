@@ -24,6 +24,6 @@ jobs:
         pip install requests
     - name: 订阅脚本 #订阅脚本
       env: 
-        GHCookie: ${{ secrets.GHCookie }} # secrets_id 提供
+        GHCookie: ${{ secrets.GHCOOKIE }} # secrets_id 提供
       run: | 
         python DingYue.py
