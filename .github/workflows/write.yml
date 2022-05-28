@@ -27,9 +27,3 @@ jobs:
         GHCOOKIE: ${{ secrets.GHCOOKIE }} # secrets_id 提供
       run: | 
         python write.py
-    - name: Commit #上传新的refresh_token到仓库
-      run: |
-        git config --global user.email AutoupdateRobot@email.com
-        git config --global user.name AutoupdateRobot
-        git add .
-        git commit -m "update new server1.txt" -a
