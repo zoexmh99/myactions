@@ -8,7 +8,7 @@ import os
 txt="hah"
 fn=open("server1.txt","w",encoding="utf-8")
 
-fn.write(txt)
+fn.write("zhongguo")
 
 
 
