@@ -7,9 +7,11 @@ import os,sys
 
 txt="hah"
 path=sys.path[0]+r'/server1.txt'
-with open(path,"w+",encoding="utf-8") as f:
-    print("哈哈"+f.readline())
-    f.write(txt)
+fn=open(path,"w+",encoding="utf-8")
+print("哈哈"+fn.readline())
+
+print("哈哈"+fn.readline())
+f.write(txt)
 
 
 
