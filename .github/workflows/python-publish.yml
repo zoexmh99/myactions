@@ -4,7 +4,6 @@ on:
     workflow_dispatch:
     schedule:
         - cron: "*/2 */2 * * *"
-#电信经常签到不成功所以让他每八小时执行一下,一天三次
     watch:
         types: [started]
    
@@ -27,3 +26,13 @@ jobs:
         GHCOOKIE: ${{ secrets.GHCOOKIE }} # secrets_id 提供
       run: | 
         python DingYue.py
+    - name: Commit #上传新的refresh_token到仓库
+      run: |
+        git config --global user.email AutoupdateRobot@email.com
+        git config --global user.name AutoupdateRobot
+        git add .
+        git commit -m "update new Node.txt" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
