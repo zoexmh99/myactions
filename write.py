@@ -5,8 +5,9 @@ import requests
 import re
 import os
 
+path=sys.path[0]+r'/server1.txt'
 txt="hah"
-with open("./server1.txt","w+",encoding="utf-8") as f:
+with open(path,"w+",encoding="utf-8") as f:
     f.write(txt)
 
 
