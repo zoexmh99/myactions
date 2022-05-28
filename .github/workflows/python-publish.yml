@@ -22,12 +22,11 @@ jobs:
     - name: Install requests #安装requests
       run: |
         pip install requests
-    - name: Read config from secrets  #读取机密
+    - name: 订阅脚本 #订阅脚本
       env: 
         GHCookie: ${{ secrets.GHCookie }} # secrets_id 提供
         KEY_LIST: ${{ secrets.KEY_LIST }} # secrets_key 提供
         ID_LIST2: ${{ secrets.ID_LIST2 }} # secrets_id 提供
         KEY_LIST2: ${{ secrets.KEY_LIST2 }} # secrets_key 提供
-    - name: 订阅脚本 #订阅脚本
       run: | 
         python DingYue.py
