@@ -6,8 +6,8 @@ import re
 import os
 
 txt="hah"
-    with open("server1.txt","w+",encoding="utf-8") as f:
-        f.write(txt)
+with open("server1.txt","w+",encoding="utf-8") as f:
+    f.write(txt)
 
 
 
