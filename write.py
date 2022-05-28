@@ -3,11 +3,11 @@ import random
 import time
 import requests
 import re
-import os
+import os,sys
 
+path=os.path.dirname("server1.txt")
 txt="hah"
-fn=open("server1.txt","w",encoding="utf-8")
-
+fn=open(path,"w",encoding="utf-8")
 fn.write("zhongguo")
 
 
