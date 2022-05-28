@@ -5,7 +5,7 @@ import requests
 import re
 
 
-cookie = process.env.GHCookie
+cookie = process.env.GHCOOKIE
 filter_list = ["#",";","","/"]
 
 headers = {
