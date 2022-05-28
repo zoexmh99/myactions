@@ -3,10 +3,11 @@ import random
 import time
 import requests
 import re
-import os
+import os,sys
 
 txt="hah"
-with open("./server1.txt","w+",encoding="utf-8") as f:
+path=sys.path[0]+r'/server1.txt'
+with open(path,"w+",encoding="utf-8") as f:
     f.write(txt)
 
 
