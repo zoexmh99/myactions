@@ -10,8 +10,7 @@ path=sys.path[0]+r'/server1.txt'
 fn=open(path,"w+",encoding="utf-8")
 print("哈哈"+fn.readline())
 
-print("哈哈"+fn.readline())
-f.write(txt)
+fn.write(txt)
 
 
 
