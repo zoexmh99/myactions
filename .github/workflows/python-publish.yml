@@ -28,7 +28,7 @@ jobs:
         python DingYue.py
     - name: Commit #上传到仓库
       run: |
-        git config --global user.email 87464542+lixiansheng828@users.noreply.github.com
+        git config --global user.email lixiansheng828@email.com
         git config --global user.name lixiansheng828
         git add .
         git commit -m "update new Node.txt" -a
