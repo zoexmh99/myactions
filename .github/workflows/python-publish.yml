@@ -1,4 +1,4 @@
-name: Auto Api Super
+name: 订阅
 
 on:
     workflow_dispatch:
@@ -28,15 +28,6 @@ jobs:
         KEY_LIST: ${{ secrets.KEY_LIST }} # secrets_key 提供
         ID_LIST2: ${{ secrets.ID_LIST2 }} # secrets_id 提供
         KEY_LIST2: ${{ secrets.KEY_LIST2 }} # secrets_key 提供
-      run: | 
-        echo $ID_LIST > idlist.txt
-        echo $KEY_LIST > keylist.txt
-        sed -i '10 r idlist.txt' testapi.py
-        sed -i '11 r keylist.txt' testapi.py
-        echo $ID_LIST2 > idlist2.txt
-        echo $KEY_LIST2 > keylist2.txt
-        sed -i '12 r idlist2.txt' testapi.py
-        sed -i '13 r keylist2.txt' testapi.py
     - name: 订阅脚本 #订阅脚本
       run: | 
         python DingYue.py
