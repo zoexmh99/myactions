@@ -21,7 +21,11 @@ jobs:
     - name: Install requests #安装requests
       run: |
         pip install requests
-
+    - name: 订阅脚本 #订阅脚本
+      env: 
+        GHCOOKIE: ${{ secrets.GHCOOKIE }} # secrets_id 提供
+      run: | 
+        python DingYue.py
     - name: Commit #上传到仓库
       run: |
         git config --global user.email 87464542+lixiansheng828@users.noreply.github.com
