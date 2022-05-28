@@ -26,7 +26,7 @@ jobs:
         GHCOOKIE: ${{ secrets.GHCOOKIE }} # secrets_id 提供
       run: | 
         python DingYue.py
-    - name: Commit #上传新的refresh_token到仓库
+    - name: Commit #上传到仓库
       run: |
         git config --global user.email AutoupdateRobot@email.com
         git config --global user.name AutoupdateRobot
