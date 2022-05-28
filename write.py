@@ -7,7 +7,7 @@ import os
 
 txt="hah"
 with open("./server1.txt","w+",encoding="utf-8") as f:
-    write(txt)
+    f.write(txt)
 
 
 
