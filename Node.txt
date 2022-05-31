@@ -1,100 +1,93 @@
-https://ghproxy.com/https://raw.githubusercontent.com/TinyLimbo/proxies/main/ss88, tag=TinyLimbo, update-interval=172800, opt-parser=true, enabled=false
-https://github.com/ddgksf2013/Cuttlefish/raw/master/Server/PlaneVPN.sub, tag=墨鱼手记, update-interval=172800, opt-parser=true, enabled=false
-https://dove.589669.xyz/all2quanx?&sub=https%3A%2F%2Fapi.luchao.me%2Fsubscribe%2F20831%2FDOMXunhHG8Z%2Fssr%2F&emoji=0&sort=0&aead=0, tag=NNNNN, update-interval=172800, opt-parser=false, enabled=true
-https://www.oxygenplaza.net/downloadConfig/NodeList.aspx?qx=2&urk=27985cdc-4410-4540-a25c-6eb5df83f3c5, tag=Nexitally, update-interval=172800, opt-parser=true, enabled=true
-https://pptp., tag=pptp.cloud, img-url=scribble.variable.system, update-interval=604800, opt-parser=false, enabled=true
-https://raw.githubusercontent.com/iunfo/sfw/main/server_remote/server.txt, tag=示范(导入后更新并删除示范), enabled=false
-https://proxies.bihai.cf/vmess/sub?filter=r, tag=TemporaryUse, update-interval=172800, opt-parser=true, enabled=true
-https://api.ikuuu.science/link/m74AQSbnkP6PlYFS?sub=3&extend=1#in=香港, tag=ikuuu.co, update-interval=86400, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server-complete.txt, tag=示范(导入后更新并删除示范),  img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, enabled=true
-https://ghproxy.com/https://raw.githubusercontent.com/freefq/free/master/v2, tag=Freefq, update-interval=172800, opt-parser=true, enabled=false
-https://raw.githubusercontent.com/PoetryU/Scientist/master/Profiles/UnblockNetMusic/unblock.yaml#checkurl=http://interface3.music.163.com, tag=UnblockNeteaseMusic, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netease_Music_Unlock.png, update-interval=432000, opt-parser=true, enabled=true
-https://bulink.me/sub/gevexn/vm, tag=https://bulink.me/sub/gevexn/vm, update-interval=172800, opt-parser=true, enabled=false
-http=jc.ap.fastqvpn.com:29980, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=公益|新加坡|
-https://sub.sptao.net/api/v1/client/subscribe?token=4ac98a0fba12841cc1eb4eb40c359a12, tag=AAA, update-interval=172800, opt-parser=true, enabled=true
-http://8.136.5.236/clash/proxies#emoji=2, tag=Clash, update-interval=86400, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server.txt#rename=[香港], tag=示范(请先导入自己订阅/节点), img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, update-interval=86400, opt-parser=true, enabled=false
-https://subscribe.s7p7.top/link/yRVnvYQ0a8MNSZmu?list=quantumultx, tag=FastFrog, update-interval=172800, opt-parser=true, enabled=true
-https://sub.store/download/Maying, tag=𝗠𝗮𝘆𝗶𝗻𝗴, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/SSR_Letter.png, update-interval=172800, opt-parser=true, enabled=true
-https://api.ikuuu.science/link/elVMKUI0kmkPyWyY?sub=3&extend=1, tag=ikuuu, update-interval=172800, opt-parser=true, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Element.png, enabled=true
-https://dllx.tk/GreenFishYYDS-Clash#, tag=节点勿点, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/sngxpro/proxies/main/sngxprofreeqx, tag=公众号少年歌行pro🤪, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, update-interval=86400, opt-parser=false, enabled=true
-https://api.v1.mk/sub?target=mixed&url=https%3A%2F%2Fraw.githubusercontent.com%2FJsnzkpg%2FJsnzkpg%2FJsnzkpg%2FJsnzkpg&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FMeilieage%2Fwebcdn%2Fmain%2Frule%2FArea_Media_NoAuto.ini&emoji=true&list=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&sort=false, tag=牛仔裤, update-interval=172800, opt-parser=false, enabled=true
-https, tag=Maying, opt-parser=false, enabled=true
-https://raw.githubusercontent.com/erdongchanyo/Rules/main/Quantumult%20X/LazyConf/edcFreeServer.list, tag=edcFreeServer, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Airport/EDC.png, update-interval=172800, opt-parser=false, enabled=true
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/proxies/main/sngxprofreeqx, tag=公众号少年歌行pro🤪, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, update-interval=86400, opt-parser=false, enabled=true
-https://bulink.me/sub/gkkz9m/vm, tag=bulink.me, update-interval=172800, opt-parser=true, enabled=false
-https://raw.githubusercontent.com/sngxpro/proxies/main/sngxprofreeqx2, tag=少年歌行pro代理池🤩, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/qin.png, update-interval=86400, opt-parser=false, enabled=true 
-https://v2r.proxypools.xyz/api/v1/client/subscribe?token=b4312ea135a6c2c5cac7066867b42351, tag=v2r.sevens.cf, update-interval=172800, opt-parser=true, enabled=false
-https://openit.ml/Clash.yaml#, tag=HTTPS, update-interval=2592000, opt-parser=true, enabled=true
-https://openit.ml/Clash.yaml, tag=TemporaryUse, update-interval=172800, opt-parser=true, enabled=true
-https://link.xupng.cn/link/OY22EY33?mu=2, tag=wanteatp.cloud, update-interval=172800, opt-parser=true, enabled=false
-https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server.snippet#rename=[香港], tag=URI格式示范(请导入自己订阅), update-interval=86400, opt-parser=true,  img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, enabled=true
-https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server.txt#rename=[香港], tag=示范(请先导入自己订阅/节点), update-interval=86400, opt-parser=true,  img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, enabled=true
-https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/QuanX/master/Server_remote/Netease, tag=Netease, update-interval=86400, opt-parser=true, enabled=true
-https://pptp.cloud/api/v1/client/subscribe?token=25c54155-a0b2-4018-92e2-81ad81fd3ea5, tag=Mdss, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server-complete.txt, tag=速蛙云(导入后更新并删除示范), img-url=https://raw.githubusercontent.com/NB921/picture/main/Fastfrog.png, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/changfengoss/pub/main/data/2022_03_11/jfmDoZ.txt#emoji=2&tfo=1&udp=1&rename=@|$type2&server_check_url=http://www.google.com/generate_204, tag=_____________}🥷🏿{, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Ytoo.png, update-interval=-1, opt-parser=true, enabled=true
-https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/QuanX/master/Server_remote/QuanX_YJL, tag=QuanX_YJL, update-interval=86400, opt-parser=true, enabled=false
-https://raw.fastgit.org/freefq/free/master/v2, tag=https://raw.fastgit.org/freefq/free/master/v2, update-interval=172800, opt-parser=true, enabled=true
-https, tag=Nexitally, opt-parser=false, enabled=true
-https://sub.xeton.dev/sub?target=quanx&url=https%3A%2F%2Fraw.githubusercontent.com%2Fssrsub%2Fssr%2Fmaster%2FClash.yml#, tag=节点信息, update-interval=172800, opt-parser=true, enabled=true
-https://sub.ssr.sh/link/aL9gzxbqvfbPUHFE?mu=1, tag=魅影极速, update-interval=86400, opt-parser=true, enabled=true
-https://sub.wallless.cloud/api/v1/client/subscribe?token=c64ec3e873379eccbcde50586c73d71d, tag=wallless, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/unlesssub.txt, tag=无用节点, img-url=power.system, update-interval=172800, opt-parser=false, enabled=true
-https://raw.githubusercontent.com/PoetryU/Scientist/master/Profiles/UnblockNetMusic/unblock.yaml, tag=UnblockNeteaseMusic, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netease_Music_Unlock.png, update-interval=432000, opt-parser=true, enabled=true
-https://ghproxy.com/https://raw.githubusercontent.com/TinyRainy0921/proxy/main/newpanda, tag=TinyRainy0921, update-interval=172800, opt-parser=true, enabled=false
-https://Texon 订阅地址 #emoji=2&in=港+新+日+美&replace=香[\u4e00-\u9fa5]{4}\s@菜场.香港.0+新[\u4e00-\u9fa5]{4}\s@菜场.狮城.0+日[\u4e00-\u9fa5]{4}\s@菜场.日本.0+美[\u4e00-\u9fa5]{4}\s@菜场.美国.0&rename=港.01@港.01%20❀&sort=🇭🇰>🇸🇬, tag=Texon ✯₁₅, img-url=https://raw.githubusercontent.com/chaizia/Profiles/master/faviconico/Texon.png, update-interval=86400, opt-parser=true, enabled=true
-https://openit.ml/long#, tag=Openit, update-interval=172800, opt-parser=true, enabled=true
-https://can.gd772.me/api/v1/client/subscribe?token=2767972626ccdae3475d4d87f2886e29&flag=quantumult%20x, tag=can.gd772.me, update-interval=172800, opt-parser=true, enabled=false
-https://Nexitally 订阅地址 #emoji=2&regex=(?!.*(Pre|Str)).*(Hon|Jap|Sin|Tai)&sort=🇭🇰>🇸🇬>🇨🇳&rename=Hong%20Kong%20@佩奇.香港.+Taiwan%20@佩奇.台湾.+Japan%20@佩奇.日本.+Singapore%20@佩奇.狮城., tag=Nexitally ✯₂₅, img-url=https://raw.githubusercontent.com/chaizia/Profiles/master/faviconico/Nex2.png, update-interval=86400, opt-parser=true, enabled=true
-https://bulink.me/sub/gevexn/ss, tag=https://bulink.me/sub/gevexn/ss, update-interval=172800, opt-parser=true, enabled=false
-https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server-complete.snippet, tag=QuanX格式示范(导入后删除这两个示范),  img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, enabled=true
 https://ghproxy.com/https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md, tag=UmeLabs, update-interval=172800, opt-parser=true, enabled=false
-https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/proxies/main/Youthsongsfreeqx, tag=公众号少年歌行pro🤪, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/icons/main/genshin/mona.png, update-interval=86400, opt-parser=false, enabled=true
-https://www.example.com/
+https://v2r.proxypools.xyz/api/v1/client/subscribe?token=b4312ea135a6c2c5cac7066867b42351, tag=v2r.sevens.cf, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server.snippet#rename=[香港], tag=URI格式示范(请导入自己订阅), update-interval=86400, opt-parser=true,  img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, enabled=true
+https://api.ikuuu.science/link/elVMKUI0kmkPyWyY?sub=3&extend=1, tag=ikuuu, update-interval=172800, opt-parser=true, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Element.png, enabled=true
+https://bulink.me/sub/gkkz9m/vm, tag=bulink.me, update-interval=172800, opt-parser=true, enabled=false
 https://dingyue.suying666.info/link/vrSp0MMpQNPfbX2f?sub=3, tag=我的订阅, update-interval=172800, opt-parser=true, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/OvO.png, enabled=true
+https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/QuanX/master/Server_remote/QuanX_YJL, tag=QuanX_YJL, update-interval=86400, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server.txt#rename=[香港], tag=示范(请先导入自己订阅/节点), img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, update-interval=86400, opt-parser=true, enabled=false
 https://sub.store/download/collection/vps_qx, tag=𝗦𝘂𝗽𝗽𝗼𝗿𝘁, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/VMess_Letter.png, update-interval=172800, opt-parser=false, enabled=true
 https://sub.store/download/Dler, tag=𝗗𝗹𝗲𝗿𝗖𝗹𝗼𝘂𝗱, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Trojan_Letter.png, update-interval=86400, opt-parser=true, enabled=true
-vmess = 120.232.214.235:18000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=[备用1][域名无法解析时用]
-vmess = jmnt.hkix.fun:50015, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, obfs=wss, obfs-host=meeting.speednetwork.xyz, obfs-uri=/v1, fast-open=false, tag=🇯🇵 [Netflix]广州 移动→日本ora
-vmess = hnlt.hkix.fun:19111, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇰🇷 [Netflix]联通→韩国cc
-shadowsocks=example.com:443, method=chacha20, password=pwd, obfs=tls, obfs-host=bing.com, fast-open=false, udp-relay=false, tag=ss-03
-vmess = jmnt.hkix.fun:19111, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇰🇷 [Netflix]移动2→韩国cc
-vmess = zh.anynode.pw:19000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇺🇲 [Netflix]广州 移动→美国g
-vmess = zh.anynode.pw:19011, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇸🇬 [Netflix]广州 移动→新加坡
-vmess = 140.207.232.47:18000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=[备用2][域名无法解析时用]
-vmess = zh.anynode.pw:19079, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇺🇲 [主力]广州 移动→美国pf
-vmess=138.2.11.175:24380, method=none, password=5b85c8d2-9ab4-4fce-a91d-3df5f0090a47, fast-open=true, tag=Japan-TYO1-Oracle-VMess
-shadowsocks=c21s2.jamjams.net:31282, method=aes-256-gcm, password=E6ANmLye3X, fast-open=false, udp-relay=false,tag=free
-vmess = hnlt.hkix.fun:50001, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, obfs=wss, obfs-host=meeting.speednetwork.xyz, obfs-uri=/v1, fast-open=false, tag=🇩🇪 上海 联通→德国
-shadowsocks=all-us.ddnsnode.com:27013, method=chacha20-ietf-poly1305, password=63191e88-d181-42cd-9680-0186b3d84d20, fast-open=true, udp-relay=true, tag=🇺🇸_Washington原生解锁b
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=+网易音乐+①
-vmess = zh.anynode.pw:19017, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇮🇳 [Netflix]移动→印度
-vmess = zh.anynode.pw:17001, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🏳️‍🌈 [大流量]佛山 移动→日本dg
+https://subscribe.s7p7.top/link/yRVnvYQ0a8MNSZmu?list=quantumultx, tag=FastFrog, update-interval=172800, opt-parser=true, enabled=true
+https, tag=Nexitally, opt-parser=false, enabled=true
+https://Nexitally 订阅地址 #emoji=2&regex=(?!.*(Pre|Str)).*(Hon|Jap|Sin|Tai)&sort=🇭🇰>🇸🇬>🇨🇳&rename=Hong%20Kong%20@佩奇.香港.+Taiwan%20@佩奇.台湾.+Japan%20@佩奇.日本.+Singapore%20@佩奇.狮城., tag=Nexitally ✯₂₅, img-url=https://raw.githubusercontent.com/chaizia/Profiles/master/faviconico/Nex2.png, update-interval=86400, opt-parser=true, enabled=true
+https://sub.sptao.net/api/v1/client/subscribe?token=4ac98a0fba12841cc1eb4eb40c359a12, tag=AAA, update-interval=172800, opt-parser=true, enabled=true
+https://ghproxy.com/https://raw.githubusercontent.com/TinyLimbo/proxies/main/ss88, tag=TinyLimbo, update-interval=172800, opt-parser=true, enabled=false
+https://sub.wallless.cloud/api/v1/client/subscribe?token=c64ec3e873379eccbcde50586c73d71d, tag=wallless, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/PoetryU/Scientist/master/Profiles/UnblockNetMusic/unblock.yaml#checkurl=http://interface3.music.163.com, tag=UnblockNeteaseMusic, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netease_Music_Unlock.png, update-interval=432000, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/PoetryU/Scientist/master/Profiles/UnblockNetMusic/unblock.yaml, tag=UnblockNeteaseMusic, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netease_Music_Unlock.png, update-interval=432000, opt-parser=true, enabled=true
+https://openit.ml/Clash.yaml, tag=TemporaryUse, update-interval=172800, opt-parser=true, enabled=true
+https://pptp., tag=pptp.cloud, img-url=scribble.variable.system, update-interval=604800, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server-complete.txt, tag=示范(导入后更新并删除示范),  img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, enabled=true
+https://raw.githubusercontent.com/changfengoss/pub/main/data/2022_03_11/jfmDoZ.txt#emoji=2&tfo=1&udp=1&rename=@|$type2&server_check_url=http://www.google.com/generate_204, tag=_____________}🥷🏿{, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Ytoo.png, update-interval=-1, opt-parser=true, enabled=true
+https://github.com/ddgksf2013/Cuttlefish/raw/master/Server/PlaneVPN.sub, tag=墨鱼手记, update-interval=172800, opt-parser=true, enabled=false
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/proxies/main/Youthsongsfreeqx, tag=公众号少年歌行pro🤪, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/icons/main/genshin/mona.png, update-interval=86400, opt-parser=false, enabled=true
+https://ghproxy.com/https://raw.githubusercontent.com/freefq/free/master/v2, tag=Freefq, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/sngxpro/proxies/main/sngxprofreeqx2, tag=少年歌行pro代理池🤩, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/qin.png, update-interval=86400, opt-parser=false, enabled=true 
+https://proxies.bihai.cf/vmess/sub?filter=r, tag=TemporaryUse, update-interval=172800, opt-parser=true, enabled=true
+https://sub.ssr.sh/link/aL9gzxbqvfbPUHFE?mu=1, tag=魅影极速, update-interval=86400, opt-parser=true, enabled=true
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/proxies/main/sngxprofreeqx, tag=公众号少年歌行pro🤪, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, update-interval=86400, opt-parser=false, enabled=true
+http://8.136.5.236/clash/proxies#emoji=2, tag=Clash, update-interval=86400, opt-parser=true, enabled=true
+https, tag=Maying, opt-parser=false, enabled=true
+https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/QuanX/master/Server_remote/Netease, tag=Netease, update-interval=86400, opt-parser=true, enabled=true
+https://api.ikuuu.science/link/m74AQSbnkP6PlYFS?sub=3&extend=1#in=香港, tag=ikuuu.co, update-interval=86400, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/unlesssub.txt, tag=无用节点, img-url=power.system, update-interval=172800, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server-complete.txt, tag=速蛙云(导入后更新并删除示范), img-url=https://raw.githubusercontent.com/NB921/picture/main/Fastfrog.png, update-interval=172800, opt-parser=true, enabled=true
+https://openit.ml/Clash.yaml#, tag=HTTPS, update-interval=2592000, opt-parser=true, enabled=true
+https://ghproxy.com/https://raw.githubusercontent.com/TinyRainy0921/proxy/main/newpanda, tag=TinyRainy0921, update-interval=172800, opt-parser=true, enabled=false
+https://bulink.me/sub/gevexn/ss, tag=https://bulink.me/sub/gevexn/ss, update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/erdongchanyo/Rules/main/Quantumult%20X/LazyConf/edcFreeServer.list, tag=edcFreeServer, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Airport/EDC.png, update-interval=172800, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/sngxpro/proxies/main/sngxprofreeqx, tag=公众号少年歌行pro🤪, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server.txt#rename=[香港], tag=示范(请先导入自己订阅/节点), update-interval=86400, opt-parser=true,  img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, enabled=true
+https://Texon 订阅地址 #emoji=2&in=港+新+日+美&replace=香[\u4e00-\u9fa5]{4}\s@菜场.香港.0+新[\u4e00-\u9fa5]{4}\s@菜场.狮城.0+日[\u4e00-\u9fa5]{4}\s@菜场.日本.0+美[\u4e00-\u9fa5]{4}\s@菜场.美国.0&rename=港.01@港.01%20❀&sort=🇭🇰>🇸🇬, tag=Texon ✯₁₅, img-url=https://raw.githubusercontent.com/chaizia/Profiles/master/faviconico/Texon.png, update-interval=86400, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server-complete.snippet, tag=QuanX格式示范(导入后删除这两个示范),  img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, enabled=true
+https://www.example.com/
+https://bulink.me/sub/gevexn/vm, tag=https://bulink.me/sub/gevexn/vm, update-interval=172800, opt-parser=true, enabled=false
+https://can.gd772.me/api/v1/client/subscribe?token=2767972626ccdae3475d4d87f2886e29&flag=quantumult%20x, tag=can.gd772.me, update-interval=172800, opt-parser=true, enabled=false
+https://www.oxygenplaza.net/downloadConfig/NodeList.aspx?qx=2&urk=27985cdc-4410-4540-a25c-6eb5df83f3c5, tag=Nexitally, update-interval=172800, opt-parser=true, enabled=true
+https://pptp.cloud/api/v1/client/subscribe?token=25c54155-a0b2-4018-92e2-81ad81fd3ea5, tag=Mdss, update-interval=172800, opt-parser=true, enabled=true
+https://openit.ml/long#, tag=Openit, update-interval=172800, opt-parser=true, enabled=true
+https://raw.fastgit.org/freefq/free/master/v2, tag=https://raw.fastgit.org/freefq/free/master/v2, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/iunfo/sfw/main/server_remote/server.txt, tag=示范(导入后更新并删除示范), enabled=false
+https://dove.589669.xyz/all2quanx?&sub=https%3A%2F%2Fapi.luchao.me%2Fsubscribe%2F20831%2FDOMXunhHG8Z%2Fssr%2F&emoji=0&sort=0&aead=0, tag=NNNNN, update-interval=172800, opt-parser=false, enabled=true
+https://sub.store/download/Maying, tag=𝗠𝗮𝘆𝗶𝗻𝗴, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/SSR_Letter.png, update-interval=172800, opt-parser=true, enabled=true
+https://link.xupng.cn/link/OY22EY33?mu=2, tag=wanteatp.cloud, update-interval=172800, opt-parser=true, enabled=false
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, tag=解锁节点, fast-open=false, udp-relay=false
+vmess = jmnt.hkix.fun:19017, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇮🇳 [Netflix]移动2→印度
 vmess=150.230.98.34:24380, method=none, password=5b85c8d2-9ab4-4fce-a91d-3df5f0090a47, fast-open=true, tag=Japan-TYO2-Oracle-VMess
+vmess=168.138.33.0:24380, method=none, password=5b85c8d2-9ab4-4fce-a91d-3df5f0090a47, fast-open=true, tag=Japan-TYOv-Oracle-VMess
+shadowsocks=all-us.ddnsnode.com:27013, method=chacha20-ietf-poly1305, password=63191e88-d181-42cd-9680-0186b3d84d20, fast-open=true, udp-relay=true, tag=🇺🇸_Washington原生解锁b
+shadowsocks=example.com:443, method=chacha20, password=pwd, obfs=tls, obfs-host=bing.com, fast-open=false, udp-relay=false, tag=ss-03
+vmess = jmnt.hkix.fun:18000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇭🇰 [主力]佛山 移动→香港az
+vmess = hnlt.hkix.fun:19112, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇬🇧 [Netflix]上海 联通→英国
+servers.txt, tag=JMS, opt-parser=false, enabled=true
+vmess = jmnt.hkix.fun:19011, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇸🇬 [Netflix]佛山 移动→新加坡
+vmess = jmnt.hkix.fun:19111, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇰🇷 [Netflix]移动2→韩国cc
+vmess = hnlt.hkix.fun:17001, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🏳️‍🌈 [大流量]上海 联通→日本dg
+vmess = 140.207.232.47:18000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=[备用2][域名无法解析时用]
 vmess = hnlt.hkix.fun:19079, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇺🇲 [均衡]上海 联通→美国
+vmess=wang0729.www:443, method=aes-128-gcm, password=12899755-6842-495b-a650-d13644b01f55, obfs=wss, obfs-host=euserv.wang0729.gq, obfs-uri=/, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=🚑EUSERV
+vmess=138.2.11.175:24380, method=none, password=5b85c8d2-9ab4-4fce-a91d-3df5f0090a47, fast-open=true, tag=Japan-TYO1-Oracle-VMess
+vmess = zh.anynode.pw:19111, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇰🇷 [Netflix]移动→韩国cc
+vmess = zh.anynode.pw:53004, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, obfs=ws, obfs-host=v.qq.com, obfs-uri=/v1, fast-open=false, tag=🇬🇧 [Netflix]广州 移动→英国cf
 vmess=35.243.95.84:24380, method=none, password=5b85c8d2-9ab4-4fce-a91d-3df5f0090a47, fast-open=true, tag=Japan-TYO1-Google-VMess
 vmess = zh.anynode.pw:18000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇭🇰 [主力]广州 移动→香港az
-vmess = zh.anynode.pw:19111, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇰🇷 [Netflix]移动→韩国cc
-vmess=168.138.33.0:24380, method=none, password=5b85c8d2-9ab4-4fce-a91d-3df5f0090a47, fast-open=true, tag=Japan-TYOv-Oracle-VMess
-vmess = hnlt.hkix.fun:18000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🏳️‍🌈 [大流量]上海 联通→香港az
-vmess = jmnt.hkix.fun:18000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇭🇰 [主力]佛山 移动→香港az
-vmess = zh.anynode.pw:53004, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, obfs=ws, obfs-host=v.qq.com, obfs-uri=/v1, fast-open=false, tag=🇬🇧 [Netflix]广州 移动→英国cf
-shadowsocks=148.100.78.174:51900, method=aes-256-gcm, password=uch4LfztUy, fast-open=false, udp-relay=false, tag=SHADOWSOCKS
-servers.txt, tag=JMS, opt-parser=false, enabled=true
-shadowsocks=example.com:80, method=aes-128-gcm, password=pwd, obfs=ws, fast-open=false, tag=无用节点1
-vmess = hnlt.hkix.fun:17001, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🏳️‍🌈 [大流量]上海 联通→日本dg
-shadowsocks=example.com:80, method=aes-128-gcm, password=pwd, obfs=ws, fast-open=false, tag=无用节点2
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, tag=解锁节点, fast-open=false, udp-relay=false
-vmess = jmnt.hkix.fun:53004, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, obfs=ws, obfs-host=v.qq.com, obfs-uri=/v1, fast-open=false, tag=🇬🇧 [Netflix]佛山 移动→英国cf
-vmess = jmnt.hkix.fun:17001, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🏳️‍🌈 [大流量]广州 移动→日本dg
-shadowsocks=yidong.latiao.cyou:26806, method=chacha20-ietf-poly1305, password=f6158799-a8e1-4eea-a997-0a9b8fd9346f, fast-open=false, udp-relay=true, tag=香港
-vmess = jmnt.hkix.fun:19011, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇸🇬 [Netflix]佛山 移动→新加坡
-shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=+网易音乐+②
-vmess = jmnt.hkix.fun:19017, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇮🇳 [Netflix]移动2→印度
-vmess = zh.anynode.pw:17000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇨🇳 [主力][Netflix]佛山 移动→台湾
-vmess=wang0729.www:443, method=aes-128-gcm, password=12899755-6842-495b-a650-d13644b01f55, obfs=wss, obfs-host=euserv.wang0729.gq, obfs-uri=/, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=🚑EUSERV
-vmess = hnlt.hkix.fun:19112, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇬🇧 [Netflix]上海 联通→英国
 vmess = jmnt.hkix.fun:50001, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, obfs=wss, obfs-host=meeting.speednetwork.xyz, obfs-uri=/v1, fast-open=false, tag=🇩🇪 广州 移动→德国
+vmess = hnlt.hkix.fun:50001, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, obfs=wss, obfs-host=meeting.speednetwork.xyz, obfs-uri=/v1, fast-open=false, tag=🇩🇪 上海 联通→德国
+vmess = jmnt.hkix.fun:50015, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, obfs=wss, obfs-host=meeting.speednetwork.xyz, obfs-uri=/v1, fast-open=false, tag=🇯🇵 [Netflix]广州 移动→日本ora
+vmess = zh.anynode.pw:19011, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇸🇬 [Netflix]广州 移动→新加坡
+vmess = zh.anynode.pw:17000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇨🇳 [主力][Netflix]佛山 移动→台湾
+vmess = zh.anynode.pw:19079, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇺🇲 [主力]广州 移动→美国pf
+vmess = zh.anynode.pw:19017, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇮🇳 [Netflix]移动→印度
 vmess = jmnt.hkix.fun:17000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇨🇳 [主力][Netflix]广州 移动→台湾
+shadowsocks=148.100.78.174:51900, method=aes-256-gcm, password=uch4LfztUy, fast-open=false, udp-relay=false, tag=SHADOWSOCKS
+vmess = 120.232.214.235:18000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=[备用1][域名无法解析时用]
+vmess = zh.anynode.pw:19000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇺🇲 [Netflix]广州 移动→美国g
+vmess = jmnt.hkix.fun:17001, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🏳️‍🌈 [大流量]广州 移动→日本dg
+vmess = hnlt.hkix.fun:19111, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇰🇷 [Netflix]联通→韩国cc
+shadowsocks=example.com:80, method=aes-128-gcm, password=pwd, obfs=ws, fast-open=false, tag=无用节点2
+vmess = zh.anynode.pw:17001, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🏳️‍🌈 [大流量]佛山 移动→日本dg
+shadowsocks=example.com:80, method=aes-128-gcm, password=pwd, obfs=ws, fast-open=false, tag=无用节点1
+shadowsocks=c21s2.jamjams.net:31282, method=aes-256-gcm, password=E6ANmLye3X, fast-open=false, udp-relay=false,tag=free
+vmess = jmnt.hkix.fun:53004, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, obfs=ws, obfs-host=v.qq.com, obfs-uri=/v1, fast-open=false, tag=🇬🇧 [Netflix]佛山 移动→英国cf
+vmess = hnlt.hkix.fun:18000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🏳️‍🌈 [大流量]上海 联通→香港az
