@@ -25,6 +25,6 @@ jobs:
           npm install got
           npm install xmlhttprequest
           npm install tough-cookie       
-          node Kuaishou.js
+          node Kuaishou0509.js
           env:
-              ksjsbCookie: ${{ secrets.KUAISHOU || github.event.client_payload.KUAISHOU }}
+              ksjsbCookie: ${{ secrets.KUAISHOU }}
