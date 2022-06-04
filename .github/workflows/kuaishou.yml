@@ -1,4 +1,4 @@
-name: kuaishou
+name:  Kuaishou
 
 on:
     workflow_dispatch:
@@ -8,23 +8,20 @@ on:
         types: [started]
 
 jobs:
-  one:
-
-    runs-on: ubuntu-latest
-    
-    steps:
-    - uses: actions/checkout@v2
-    # 使用 node:10
-    - name: use Node.js 10.x
-      uses: actions/setup-node@v1
-      with:
-        node-version: 10.x
-    # npm install
-    - name: npm install and do sign
-      env:
-        BDUSS: ${{ secrets.BDUSS }}
-      run: |
-        npm install
-        env: 
-            KUAISHOU: ${{ secrets.KUAISHOU }} # secrets_id 提供
-        node Kuaishou.js
+    build:
+        runs-on: ubuntu-latest
+        if: github.event.repository.owner.id == github.event.sender.id
+        steps:
+            - uses: actions/checkout@v1
+            - name: Use Node.js 10.x
+              uses: actions/setup-node@v1
+              with:
+                  node-version: 10.x
+            - name: npm install
+              run: |
+                  npm install
+            - name: "快手"
+              run: |
+                  node Kuaishou.js
+              env:
+                  JD_COOKIE: ${{ secrets.KUAISHOU || github.event.client_payload.KUAISHOU }}
