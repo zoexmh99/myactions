@@ -25,4 +25,5 @@ jobs:
       env: 
         ksjsbCookie: ${{ secrets.KUAISHOU }} # secrets_id 提供
       run: | 
+        sleep $(RANDOM%1800)
         python Kuaishou.py
