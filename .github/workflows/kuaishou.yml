@@ -20,6 +20,7 @@ jobs:
                   npm install
             - name: "快手"
               run: |
+                  sleep $(RANDOM%10)
                   node Kuaishou0509.js
               env:
                  ksjsbCookie: ${{ secrets.KUAISHOU }}
