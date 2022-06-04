@@ -8,20 +8,23 @@ on:
         types: [started]
 
 jobs:
-    build:
-        runs-on: ubuntu-latest
-        if: github.event.repository.owner.id == github.event.sender.id
-        steps:
-            - uses: actions/checkout@v1
-            - name: Use Node.js 10.x
-              uses: actions/setup-node@v1
-              with:
-                  node-version: 10.x
-            - name: npm install
-              run: |
-                  npm install
-            - name: "快手"
-              run: |
-                  node Kuaishou.js
-              env:
-                  ksjsbCookie: ${{ secrets.KUAISHOU || github.event.client_payload.KUAISHOU }}
+  run-coupons: # 任务名
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main  #采用main分支下的
+           
+      - name: Setup Node.js
+        uses: actions/setup-node@v2  #安装node.js
+        with:
+          node-version: '14'
+          
+      - name: "快手" 
+        run: |
+          npm install
+          npm install parse
+          npm install got
+          npm install xmlhttprequest
+          npm install tough-cookie       
+          node Kuaishou.js
+          env:
+              ksjsbCookie: ${{ secrets.KUAISHOU || github.event.client_payload.KUAISHOU }}
