@@ -15,22 +15,17 @@ jobs:
     # 使用 node:10
 
     - name: use Node.js 10.x
-
       uses: actions/setup-node@v1
-
       with:
-
         node-version: 10.x
-
+        
     # npm install
-
     - name: npm install and do sign
 
         env:
-              ksjsbCookie: ${{ secrets.KUAISHOU }}
+          ksjsbCookie: ${{ secrets.KUAISHOU }}
       run: |
-
-        npm install
+          npm install
 
           node Kuaishou0509.js
           
