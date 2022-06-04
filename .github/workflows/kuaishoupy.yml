@@ -1,4 +1,4 @@
-name: ksjsb， 
+name: ksjsbpy 
 
 on:
     workflow_dispatch:
