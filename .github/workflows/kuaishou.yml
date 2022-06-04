@@ -24,4 +24,4 @@ jobs:
               run: |
                   node Kuaishou.js
               env:
-                  JD_COOKIE: ${{ secrets.KUAISHOU || github.event.client_payload.KUAISHOU }}
+                  KUAISHOU: ${{ secrets.KUAISHOU || github.event.client_payload.KUAISHOU }}
