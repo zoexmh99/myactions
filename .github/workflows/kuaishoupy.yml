@@ -1,0 +1,28 @@
+name: 订阅
+
+on:
+    workflow_dispatch:
+    schedule:
+        - cron: "*/2 */2 * * *"
+    watch:
+        types: [started]
+   
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@master
+    - name: Set up Python #安装python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.6
+    - name: Install requests #安装requests
+      run: |
+        pip install requests
+    - name: 订阅脚本 #订阅脚本
+      env: 
+        ksjsbCookie: ${{ secrets.KUAISHOU }} # secrets_id 提供
+      run: | 
+        python Kuaishou.py
