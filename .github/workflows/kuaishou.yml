@@ -1,10 +1,11 @@
-ame: kuaishou
+name: kuaishou
 
-on: 
-  push:
-  gollum: 
-  schedule: 
-      - cron: '1 0,8-18 * * *'
+on:
+    workflow_dispatch:
+    schedule:
+        - cron: "1 0,8-18 * * *"
+    watch:
+        types: [started]
 
 jobs:
   one:
