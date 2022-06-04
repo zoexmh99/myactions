@@ -6,7 +6,7 @@
 不提供重写了，自己把cookie填到ksjsbCookie里吧，多账号换行或者@或者&隔开
 ksjsbCookie里面包含kuaishou.api_st和did就行
 
-export ksjsbCookie="kuaishou.api_st=abcdefg;did=12345678"
+export ksjsbCookie=""
 
 变量：
 ksjsbCookie -- 必填，账号cookie，可全部复制进来或者只复制kuaishou.api_st和did
