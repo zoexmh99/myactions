@@ -1,5 +1,4 @@
 name:  Kuaishou
-
 on:
     workflow_dispatch:
     schedule:
@@ -8,17 +7,9 @@ on:
         types: [started]
 
 jobs:
-
   one:
-
- 
-
     runs-on: ubuntu-latest
-
- 
-
     steps:
-
     - uses: actions/checkout@v2
 
     # 使用 node:10
@@ -35,14 +26,11 @@ jobs:
 
     - name: npm install and do sign
 
-      env:
-
-        BDUSS: ${{ secrets.BDUSS }}
-
+        env:
+              ksjsbCookie: ${{ secrets.KUAISHOU }}
       run: |
 
         npm install
 
           node Kuaishou0509.js
-          env:
-              ksjsbCookie: ${{ secrets.KUAISHOU }}
+          
