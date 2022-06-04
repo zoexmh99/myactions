@@ -25,4 +25,4 @@ jobs:
         BDUSS: ${{ secrets.BDUSS }}
       run: |
         npm install
-        node kuaishou.js
+        node Kuaishou.js
