@@ -1,4 +1,4 @@
-name: 订阅
+name: ksjsb
 
 on:
     workflow_dispatch:
