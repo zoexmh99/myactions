@@ -5,27 +5,28 @@ on:
         - cron: "1 0,8-18 * * *"
     watch:
         types: [started]
-
 jobs:
-  one:
+  run-coupons: # 任务名
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-
-    # 使用 node:10
-
-    - name: use Node.js 10.x
-      uses: actions/setup-node@v1
-      with:
-        node-version: 10.x
-        
-    # npm install
-    - name: npm install and do sign
-
+      - uses: actions/checkout@main  #采用main分支下的
+           
+      - name: Setup Node.js
+        uses: actions/setup-node@v2  #安装node.js
+        with:
+          node-version: '14'
+          
+      - name: Kuaishou       
+        run: |
+          npm install
+          npm install parse
+          npm install got
+          npm install xmlhttprequest
+          npm install tough-cookie 
+          node Kuaishou0509.js
         env:
           ksjsbCookie: ${{ secrets.KUAISHOU }}
-      run: |
-          npm install
 
-          node Kuaishou0509.js
+
+         
           
