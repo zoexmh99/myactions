@@ -28,11 +28,12 @@ jobs:
         python DingYue.py
     - name: Commit #上传到仓库
       run: |
-        git config --global user.email zoekong1999@gmail.com
-        git config --global user.name zoexmh99
-        git add .
-        git commit -m "update new Node.txt" -a
-    - name: Push changes
-      uses: ad-m/github-push-action@master
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add ./Node.txt
+        git commit -m "更新时间 $(date '+%Y-%m-%d %H:%M:%S')"
+    - name: 推送更改
+      uses:  ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+         github_token: ${{ secrets.TOKEN }}
+         branch: main
